@@ -1,5 +1,5 @@
 # SSD300
-SSD300 neural network model implementation. Developed during deep learning methods course at Vilnius University.  
+SSD300 neural network model implementation. Developed during Deep Learning course at Vilnius University.  
 
 Based on papers: [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) and [IoU-balanced Loss Functions for Single-stage Object
 Detection](https://arxiv.org/abs/1908.05641)  
